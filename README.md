@@ -1,5 +1,8 @@
 # Clean Architecture With CQRS Pattern
 
+<img width="350" alt="clean" src="https://user-images.githubusercontent.com/45303423/187127203-1259100e-5ce9-40a4-8a89-62dc9d993025.png">
+
+
 In clean architecture, based on the picture, the domain and application layers remain in the center of the design which is known as core of the application. The domain layer contains enterprise logic and the application layer contains business logic. Generally, business logic is not sharable, it is for that particualr business only but enterprise logic can be shared across many related system.
 
 # Advantages
