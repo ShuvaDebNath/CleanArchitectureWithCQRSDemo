@@ -16,3 +16,7 @@ In clean architecture, based on the picture, the domain and application layers r
 # CQRS Pattern
 
 CQRS stands for Command and Query Responsibility Segregation. Main concern of this pattern is seperation of concern. It seperates read and command (insert, update, delete) operations. It is mostly used for performance and scalability.
+
+# Fluent Validation
+
+It's a popular .NET library for building strongly-typed validation rules. Such as model class validation, credit card numbers, email addresses, enums, collection validators etc.
